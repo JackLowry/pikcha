@@ -37,12 +37,12 @@ r = requests.post(url, data=data, cookies = r.cookies)
 Do this 500 times, and you get the flag from the request: `UMASS{G0tt4_c4tch_th3m_4ll_17263548}`
 
 ## Pikcha2
-# Details
+### Details
 Solves: 10
 
 No more mistakes! No we'll see who's the best pokemon master out there!
 
-# Writeup
+### Writeup
 Logging into the site this time we're greeted with the same thing:
 
 ![pikcha site image](img/pikcha_site.jpg)
